@@ -1,8 +1,4 @@
 # Train Ticket Reservation System 
-<!-- - Youtube video for local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw -->
-- Youtube video for Step by Step Guide on Local Setup: https://www.youtube.com/watch?v=Wd2GlEJJJlw
-<!-- - Live Url: https://traintickets.herokuapp.com <br>  -->
-<!-- - Login Credentials: admin/admin -->
 
 ### About:
 This project is about the Train-Ticket-Reservation-System which is used to view Train Schedule, search trains, Seat availability, Train timings. We can also enquire about fare of different trains. We can get information about train between two stations. We can book seats online. This provides a safe and secure seat reservation system. 
@@ -56,17 +52,17 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Oracle ( SQL )
 
 ### ==== Software And Tools Required ======
-- : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-- : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-- : Eclipse EE [https://www.youtube.com/watch?v=8aDsEV7txXE]
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : Oracle (SQL) / SQL PLUS [https://www.youtube.com/watch?v=ZYOqykEDSqU]
-- : Oracle SQL Developer [https://www.youtube.com/watch?v=2a1JKIGVtd0]
+- : Git 
+- : Java JDK 8+ 
+- : Eclipse EE 
+- : Apache Maven 
+- : Tomcat v8.0+ 
+- : Oracle (SQL)
+- : Oracle SQL Developer 
 
 ### ========== Dummy Database Initialization ===========
 
-STEP 1: Open SQL Plus OR SQL Developer
+STEP 1: Open SQL Developer
 
 STEP 2: Login and connect to database using administrator username and password
 
@@ -132,8 +128,8 @@ CREATE TABLE "RESERVATION"."HISTORY"
 
 COMMIT;
 
-INSERT INTO RESERVATION.ADMIN VALUES('admin@demo.com','admin','System','Admin','Demo Address 123 colony','9874561230');
-INSERT INTO RESERVATION.CUSTOMER VALUES('shashi@demo.com','shashi','Shashi','Raj','Kolkata, West Bengal',954745222);
+INSERT INTO RESERVATION.ADMIN VALUES('admin@demo.com','admin','System','Admin','Demo Address 123 colony','9993011793');
+INSERT INTO RESERVATION.CUSTOMER VALUES('jainpalash3011@gmail.com','Palash','Palash','Jain','Ujjain, Madhya Pradesh',7999579358);
 
 INSERT INTO RESERVATION.TRAIN VALUES(10001,'JODHPUR EXP','HOWRAH','JODHPUR', 152, 490.50);
 INSERT INTO RESERVATION.TRAIN VALUES(10002,'YAMUNA EXP','GAYA','DELHI', 52, 550.50);
@@ -142,9 +138,9 @@ INSERT INTO RESERVATION.TRAIN VALUES(10004,'JAN SATABDI EXP','RANCHI','PATNA', 1
 INSERT INTO RESERVATION.TRAIN VALUES(10005,'GANGE EXP','MUMBAI','KERALA', 12, 945);
 INSERT INTO RESERVATION.TRAIN VALUES(10006,'GARIB RATH EXP','PATNA','DELHI', 1, 1450.75);
 
-INSERT INTO RESERVATION.HISTORY VALUES('BBC374-NSDF-4673','shashi@demo.com',10001,TO_DATE('02-FEB-2024'), 'HOWRAH', 'JODHPUR', 2, 981);
-INSERT INTO RESERVATION.HISTORY VALUES('BBC375-NSDF-4675','shashi@demo.com',10004,TO_DATE('12-JAN-2024'), 'RANCHI', 'PATNA', 1, 550);
-INSERT INTO RESERVATION.HISTORY VALUES('BBC373-NSDF-4674','shashi@demo.com',10006,TO_DATE('22-JULY-2024'), 'PATNA', 'DELHI', 3, 4352.25);
+INSERT INTO RESERVATION.HISTORY VALUES('BBC374-NSDF-4673','jainpalash3011@gmail.com',10001,TO_DATE('02-FEB-2024'), 'HOWRAH', 'JODHPUR', 2, 981);
+INSERT INTO RESERVATION.HISTORY VALUES('BBC375-NSDF-4675','jainpalash3011@gmail.com',10004,TO_DATE('12-JAN-2024'), 'RANCHI', 'PATNA', 1, 550);
+INSERT INTO RESERVATION.HISTORY VALUES('BBC373-NSDF-4674','jainpalash3011@gmail.com',10006,TO_DATE('22-JULY-2024'), 'PATNA', 'DELHI', 3, 4352.25);
 
 COMMIT;
 ```
@@ -159,9 +155,9 @@ SELECT * FROM HISTORY;
 Note: If any of the above commands fails, please try to fix it first and then proceed to next step
 	
 ### ====== Importing and Running the Project Through Eclipse EE ===========
-Step 0: Open Eclipse Enterprise Edition. [Install if not available](https://www.youtube.com/watch?v=8aDsEV7txXE)
+Step 0: Open Eclipse Enterprise Edition.
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/jainpalash30/Train-Booking-System.git``` > Next > Select Master Branch > Next > Finish
 
 Step 2.A: Right Click on Project > Run as > Maven Build > In the goals field enter "clean install" > apply > run
 
@@ -177,7 +173,7 @@ Step 6: Check Running The Site At  <a Href="Http://localhost:8083/trainbook/">ht
 
 Step 7: Default Username And Password For Admin Is "admin@demo.com" And "admin"
 
-Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
+Step 8: Default Username And Password For User Is "jainpalash3011@gmail.com" And "Palash"
 
 
 
@@ -221,5 +217,5 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 
 
 #### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
+#### Palash Jain
 ##### Project Leader
