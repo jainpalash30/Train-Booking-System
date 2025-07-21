@@ -207,13 +207,13 @@ Step 8: Default Username And Password For User Is "jainpalash3011@gmail.com" And
 <img width="100%" alt="All Ticket Booking History" src="https://user-images.githubusercontent.com/34605595/232220491-3e7996cb-a54c-4375-a35a-6ab1d211a001.png">
 
 11. Fare Enquiry
-<img alt="Fare Enquiry between stations" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/fareenquiry.png" width="100%">
+<img alt="Fare Enquiry between stations" src="https://github.com/jainpalash30/Train-Booking-System/blob/433bb903ce2f6b5b720c12f167352b94d6067d1d/Screenshots/fareenquiry.png">
 
 12. Change Password
 <img alt="Change user Password" src="https://github.com/jainpalash30/Train-Booking-System/blob/c9de334c3ee235b535bee6f7c2facf922bb1a7db/Screenshots/Password%20Change.png">
 
 13. Add Trains By Admin
-<img alt="Admin Home" src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/addtrains.png" width="100%">
+<img alt="Admin Home" src="https://github.com/jainpalash30/Train-Booking-System/blob/433bb903ce2f6b5b720c12f167352b94d6067d1d/Screenshots/addtrains.png">
 
 
 #### "Suggestions and project Improvement are Invited"
