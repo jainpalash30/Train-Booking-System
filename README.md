@@ -195,7 +195,7 @@ Step 8: Default Username And Password For User Is "jainpalash3011@gmail.com" And
 <img width="100%" alt="View Available Trains" src="https://user-images.githubusercontent.com/34605595/232219905-983eeefe-977b-40ad-a695-4ec577272dcc.png">
 
 7. Book Trains
-<img width="100%" alt="Book Trains Project" src="https://user-images.githubusercontent.com/34605595/232220107-415b251f-90b9-4e70-aff8-e94d370927f6.png">
+<img width="100%" alt="Book Trains Project" src="https://github.com/jainpalash30/Train-Booking-System/blob/69e880261b0b26f0813574c8968900f13a5bc2ca/TrainBook.png">
 
 8. Payment Gateway
 <img width="100%" alt="Pay to Book Trains" src="https://user-images.githubusercontent.com/34605595/232220744-351c2c6d-e1f6-49ad-a11b-7680aa63dbe3.png">
