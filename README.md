@@ -180,10 +180,10 @@ Step 8: Default Username And Password For User Is "jainpalash3011@gmail.com" And
 ### The Screenshots of some of the  webPages of this project are Here:
 
 1. Login Page
-<img width="100%" alt="Login to Book Trains" src="https://user-images.githubusercontent.com/34605595/232219369-85b55a1d-6640-4821-941a-dcca08036fbe.png">
+<img width="100%" alt="Login to Book Trains" src="https://github.com/jainpalash30/Train-Booking-System/blob/96d839ddb5dcdbb43fe1d5242458a29d34d1ef0e/Login.png">
 
 2. Register New User
-<img width="100%" alt="Register New User" src="https://user-images.githubusercontent.com/34605595/232219485-2b00949a-be20-44f7-b6c1-107213221f94.png">
+<img width="100%" alt="Register New User" src="https://github.com/jainpalash30/Train-Booking-System/blob/96d839ddb5dcdbb43fe1d5242458a29d34d1ef0e/registeruser.png">
 
 3. User Profile
 <img width="100%" alt="View User Profile" src="https://user-images.githubusercontent.com/34605595/232219729-2720e50f-e14b-4253-831a-85c59e3054b3.png">
