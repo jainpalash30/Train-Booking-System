@@ -186,7 +186,7 @@ Step 8: Default Username And Password For User Is "jainpalash3011@gmail.com" And
 <img width="100%" alt="Register New User" src="https://github.com/jainpalash30/Train-Booking-System/blob/96d839ddb5dcdbb43fe1d5242458a29d34d1ef0e/registeruser.png">
 
 3. User Profile
-<img width="100%" alt="View User Profile" src="https://user-images.githubusercontent.com/34605595/232219729-2720e50f-e14b-4253-831a-85c59e3054b3.png">
+<img width="100%" alt="View User Profile" src="https://github.com/jainpalash30/Train-Booking-System/blob/51411ba48fa0f66b46b0a8f759216740230c3990/Screenshots/View%20Profile.png">
 
 4. Search Trains Between Stations
 <img width="100%" alt="Search Trains Between Stations" src="https://user-images.githubusercontent.com/34605595/232220357-54b634d6-afae-427c-b3af-57b372b70906.png">
